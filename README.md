@@ -1,8 +1,7 @@
 Initialisatie van Tentamen Repository Bi5a-T_1819
-# Naam Student:
-## Studentnummer:
-## Klas:
-
+# Naam Student: Carleen Rossing
+## Studentnummer: 606264
+## Klas: 2A
 ## Beoordeling Student
 | Onderdeel  | Max Score | Student | Docent |
 | ------------- | ------------- | ------------- | ------------- |
